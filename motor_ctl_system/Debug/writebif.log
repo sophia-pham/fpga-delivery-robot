@@ -1,0 +1,531 @@
+TRACE::2026-11-18.13:59:29::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.13:59:29::SCWBifWriter::hardware databse : zynq_proc_wrapper_4
+TRACE::2026-11-18.13:59:29::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.13:59:29::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.13:59:29::SCWBifWriter::proc type : 
+TRACE::2026-11-18.13:59:29::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.13:59:29::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.13:59:29::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.13:59:29::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.17:58:21::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.17:58:21::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.17:58:21::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.17:58:21::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.17:58:21::SCWBifWriter::proc type : 
+TRACE::2026-11-18.17:58:21::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.17:58:21::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.17:58:21::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.17:58:21::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:04:56::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:04:56::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:04:56::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:04:56::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:04:56::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:04:56::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:04:56::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:04:56::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:04:56::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:11:48::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:11:49::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:11:49::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:11:49::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:11:49::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:11:49::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:11:49::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:11:49::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:11:49::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:12:48::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:12:48::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:12:48::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:12:48::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:12:48::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:12:48::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:12:48::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:12:48::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:12:48::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:16:05::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:16:05::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:16:05::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:16:05::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:16:05::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:16:05::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:16:05::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:16:05::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:16:05::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:18:03::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:18:03::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:18:03::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:18:03::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:18:03::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:18:03::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:18:03::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:18:03::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:18:03::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:20:37::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:20:37::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:20:37::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:20:37::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:20:37::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:20:37::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:20:37::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:20:37::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:20:37::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:25:22::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:25:22::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:25:22::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:25:22::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:25:22::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:25:22::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:25:22::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:25:22::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:25:22::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:33:13::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:33:13::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:33:13::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:33:13::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:33:13::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:33:13::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:33:13::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:33:13::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:33:13::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:34:13::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:34:13::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:34:13::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:34:13::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:34:13::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:34:13::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:34:13::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:34:13::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:34:13::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:35:10::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:35:10::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:35:10::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:35:10::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:35:10::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:35:10::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:35:10::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:35:10::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:35:10::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:44:09::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:44:09::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:44:09::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:44:09::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:44:09::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:44:09::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:44:09::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:44:09::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:44:09::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:45:12::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:45:12::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:45:12::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:45:12::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:45:12::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:45:12::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:45:12::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:45:12::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:45:12::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:46:54::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:46:54::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:46:54::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:46:54::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:46:54::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:46:54::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:46:54::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:46:54::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:46:54::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:48:15::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:48:15::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:48:15::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:48:15::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:48:15::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:48:15::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:48:15::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:48:15::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:48:15::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:52:16::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:52:16::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:52:16::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:52:16::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:52:16::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:52:16::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:52:16::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:52:16::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:52:16::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-18.18:52:55::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-18.18:52:55::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-18.18:52:55::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-18.18:52:55::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-18.18:52:55::SCWBifWriter::proc type : 
+TRACE::2026-11-18.18:52:55::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-18.18:52:55::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-18.18:52:55::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-18.18:52:55::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.00:08:55::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.00:08:55::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-19.00:08:55::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.00:08:55::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.00:08:55::SCWBifWriter::proc type : 
+TRACE::2026-11-19.00:08:55::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.00:08:55::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.00:08:55::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.00:08:55::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.08:46:16::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.08:46:16::SCWBifWriter::hardware databse : zynq_proc_wrapper
+TRACE::2026-11-19.08:46:16::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.08:46:16::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.08:46:16::SCWBifWriter::proc type : 
+TRACE::2026-11-19.08:46:16::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.08:46:16::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.08:46:16::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.08:46:16::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.08:48:18::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.08:48:18::SCWBifWriter::hardware databse : zynq_proc_wrapper
+TRACE::2026-11-19.08:48:18::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.08:48:18::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.08:48:18::SCWBifWriter::proc type : 
+TRACE::2026-11-19.08:48:18::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.08:48:18::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.08:48:18::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.08:48:18::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.08:54:08::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.08:54:08::SCWBifWriter::hardware databse : zynq_proc_wrapper_0
+TRACE::2026-11-19.08:54:08::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.08:54:08::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.08:54:08::SCWBifWriter::proc type : 
+TRACE::2026-11-19.08:54:08::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.08:54:08::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.08:54:08::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.08:54:08::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.08:57:31::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.08:57:31::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-19.08:57:31::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.08:57:31::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.08:57:31::SCWBifWriter::proc type : 
+TRACE::2026-11-19.08:57:31::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.08:57:31::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.08:57:31::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.08:57:31::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.08:58:42::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.08:58:42::SCWBifWriter::hardware databse : zynq_proc_wrapper_2
+TRACE::2026-11-19.08:58:42::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.08:58:42::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.08:58:42::SCWBifWriter::proc type : 
+TRACE::2026-11-19.08:58:42::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.08:58:42::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.08:58:42::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.08:58:42::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:00:07::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:00:07::SCWBifWriter::hardware databse : zynq_proc_wrapper_3
+TRACE::2026-11-19.09:00:07::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:00:07::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:00:07::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:00:07::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:00:07::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:00:07::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:00:07::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:01:12::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:01:12::SCWBifWriter::hardware databse : zynq_proc_wrapper_4
+TRACE::2026-11-19.09:01:12::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:01:12::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:01:12::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:01:12::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:01:12::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:01:12::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:01:12::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:03:33::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:03:33::SCWBifWriter::hardware databse : zynq_proc_wrapper_5
+TRACE::2026-11-19.09:03:33::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:03:33::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:03:33::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:03:33::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:03:33::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:03:33::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:03:33::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:04:35::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:04:35::SCWBifWriter::hardware databse : zynq_proc_wrapper_6
+TRACE::2026-11-19.09:04:35::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:04:35::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:04:35::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:04:35::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:04:35::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:04:35::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:04:35::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:05:21::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:05:21::SCWBifWriter::hardware databse : zynq_proc_wrapper_7
+TRACE::2026-11-19.09:05:21::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:05:21::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:05:21::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:05:21::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:05:21::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:05:21::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:05:21::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:06:15::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:06:15::SCWBifWriter::hardware databse : zynq_proc_wrapper_8
+TRACE::2026-11-19.09:06:15::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:06:15::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:06:15::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:06:15::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:06:15::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:06:15::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:06:15::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:06:44::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:06:44::SCWBifWriter::hardware databse : zynq_proc_wrapper_9
+TRACE::2026-11-19.09:06:44::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:06:44::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:06:44::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:06:44::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:06:44::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:06:44::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:06:44::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:15:41::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:15:41::SCWBifWriter::hardware databse : zynq_proc_wrapper
+TRACE::2026-11-19.09:15:41::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:15:41::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:15:41::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:15:41::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:15:41::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:15:41::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:15:41::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:17:14::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:17:14::SCWBifWriter::hardware databse : zynq_proc_wrapper
+TRACE::2026-11-19.09:17:14::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:17:14::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:17:14::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:17:14::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:17:14::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:17:14::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:17:14::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:25:49::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:25:49::SCWBifWriter::hardware databse : zynq_proc_wrapper_0
+TRACE::2026-11-19.09:25:49::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:25:49::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:25:49::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:25:49::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:25:49::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:25:49::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:25:49::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:28:59::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:28:59::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-19.09:28:59::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:28:59::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:28:59::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:28:59::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:28:59::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:28:59::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:28:59::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:31:13::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:31:13::SCWBifWriter::hardware databse : zynq_proc_wrapper_2
+TRACE::2026-11-19.09:31:13::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:31:13::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:31:13::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:31:13::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:31:13::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:31:13::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:31:13::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.09:33:41::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.09:33:41::SCWBifWriter::hardware databse : zynq_proc_wrapper_3
+TRACE::2026-11-19.09:33:41::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.09:33:41::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.09:33:41::SCWBifWriter::proc type : 
+TRACE::2026-11-19.09:33:41::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.09:33:41::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.09:33:41::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.09:33:41::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.10:30:42::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.10:30:42::SCWBifWriter::hardware databse : zynq_proc_wrapper
+TRACE::2026-11-19.10:30:42::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.10:30:42::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.10:30:42::SCWBifWriter::proc type : 
+TRACE::2026-11-19.10:30:42::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.10:30:42::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.10:30:42::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.10:30:42::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.10:32:49::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.10:32:49::SCWBifWriter::hardware databse : zynq_proc_wrapper
+TRACE::2026-11-19.10:32:49::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.10:32:49::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.10:32:49::SCWBifWriter::proc type : 
+TRACE::2026-11-19.10:32:49::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.10:32:49::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.10:32:49::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.10:32:49::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.10:36:19::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.10:36:19::SCWBifWriter::hardware databse : zynq_proc_wrapper
+TRACE::2026-11-19.10:36:19::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.10:36:19::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.10:36:19::SCWBifWriter::proc type : 
+TRACE::2026-11-19.10:36:19::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.10:36:19::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.10:36:19::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.10:36:19::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.10:39:30::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.10:39:30::SCWBifWriter::hardware databse : zynq_proc_wrapper_0
+TRACE::2026-11-19.10:39:30::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.10:39:30::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.10:39:30::SCWBifWriter::proc type : 
+TRACE::2026-11-19.10:39:30::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.10:39:30::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.10:39:30::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.10:39:30::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.10:45:26::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.10:45:26::SCWBifWriter::hardware databse : zynq_proc_wrapper_2
+TRACE::2026-11-19.10:45:26::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.10:45:26::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.10:45:26::SCWBifWriter::proc type : 
+TRACE::2026-11-19.10:45:26::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.10:45:26::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.10:45:26::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.10:45:26::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.10:51:53::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.10:51:53::SCWBifWriter::hardware databse : zynq_proc_wrapper_3
+TRACE::2026-11-19.10:51:53::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.10:51:53::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.10:51:53::SCWBifWriter::proc type : 
+TRACE::2026-11-19.10:51:53::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.10:51:53::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.10:51:53::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.10:51:53::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.10:54:19::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.10:54:19::SCWBifWriter::hardware databse : zynq_proc_wrapper_4
+TRACE::2026-11-19.10:54:19::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.10:54:19::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.10:54:19::SCWBifWriter::proc type : 
+TRACE::2026-11-19.10:54:19::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.10:54:19::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.10:54:19::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.10:54:19::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.10:58:21::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.10:58:21::SCWBifWriter::hardware databse : zynq_proc_wrapper_7
+TRACE::2026-11-19.10:58:21::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.10:58:21::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.10:58:21::SCWBifWriter::proc type : 
+TRACE::2026-11-19.10:58:21::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.10:58:21::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.10:58:21::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.10:58:21::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.10:58:40::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.10:58:40::SCWBifWriter::hardware databse : zynq_proc_wrapper_7
+TRACE::2026-11-19.10:58:40::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.10:58:40::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.10:58:40::SCWBifWriter::proc type : 
+TRACE::2026-11-19.10:58:40::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.10:58:40::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.10:58:40::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.10:58:40::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.15:10:35::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.15:10:35::SCWBifWriter::hardware databse : zynq_proc_wrapper_11
+TRACE::2026-11-19.15:10:35::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.15:10:35::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.15:10:35::SCWBifWriter::proc type : 
+TRACE::2026-11-19.15:10:35::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.15:10:35::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.15:10:35::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.15:10:35::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.15:12:15::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.15:12:15::SCWBifWriter::hardware databse : zynq_proc_wrapper_12
+TRACE::2026-11-19.15:12:15::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.15:12:15::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.15:12:15::SCWBifWriter::proc type : 
+TRACE::2026-11-19.15:12:15::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.15:12:15::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.15:12:15::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.15:12:15::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.15:12:51::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.15:12:51::SCWBifWriter::hardware databse : zynq_proc_wrapper_13
+TRACE::2026-11-19.15:12:51::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.15:12:51::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.15:12:51::SCWBifWriter::proc type : 
+TRACE::2026-11-19.15:12:51::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.15:12:51::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.15:12:51::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.15:12:51::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.15:15:50::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.15:15:50::SCWBifWriter::hardware databse : zynq_proc_wrapper_16
+TRACE::2026-11-19.15:15:50::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.15:15:50::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.15:15:50::SCWBifWriter::proc type : 
+TRACE::2026-11-19.15:15:50::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.15:15:50::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.15:15:50::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.15:15:50::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.15:20:13::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.15:20:13::SCWBifWriter::hardware databse : zynq_proc_wrapper_17
+TRACE::2026-11-19.15:20:13::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.15:20:13::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.15:20:13::SCWBifWriter::proc type : 
+TRACE::2026-11-19.15:20:13::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.15:20:13::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.15:20:13::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.15:20:13::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-19.15:50:15::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-19.15:50:15::SCWBifWriter::hardware databse : zynq_proc_wrapper
+TRACE::2026-11-19.15:50:15::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-19.15:50:15::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-19.15:50:15::SCWBifWriter::proc type : 
+TRACE::2026-11-19.15:50:15::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-19.15:50:15::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-19.15:50:15::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-19.15:50:15::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-20.09:01:22::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-20.09:01:22::SCWBifWriter::hardware databse : zynq_proc_wrapper
+TRACE::2026-11-20.09:01:22::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-20.09:01:22::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-20.09:01:22::SCWBifWriter::proc type : 
+TRACE::2026-11-20.09:01:22::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-20.09:01:22::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-20.09:01:22::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-20.09:01:22::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-20.09:03:44::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-20.09:03:44::SCWBifWriter::hardware databse : zynq_proc_wrapper
+TRACE::2026-11-20.09:03:44::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-20.09:03:44::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-20.09:03:44::SCWBifWriter::proc type : 
+TRACE::2026-11-20.09:03:44::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-20.09:03:44::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-20.09:03:44::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-20.09:03:44::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-20.09:05:01::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-20.09:05:01::SCWBifWriter::hardware databse : zynq_proc_wrapper_0
+TRACE::2026-11-20.09:05:01::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-20.09:05:01::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-20.09:05:01::SCWBifWriter::proc type : 
+TRACE::2026-11-20.09:05:01::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-20.09:05:01::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-20.09:05:01::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-20.09:05:01::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-20.09:05:12::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-20.09:05:12::SCWBifWriter::hardware databse : zynq_proc_wrapper_0
+TRACE::2026-11-20.09:05:12::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-20.09:05:12::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-20.09:05:12::SCWBifWriter::proc type : 
+TRACE::2026-11-20.09:05:12::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-20.09:05:12::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-20.09:05:12::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-20.09:05:12::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-20.09:06:02::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-20.09:06:02::SCWBifWriter::hardware databse : zynq_proc_wrapper_1
+TRACE::2026-11-20.09:06:02::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-20.09:06:02::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-20.09:06:02::SCWBifWriter::proc type : 
+TRACE::2026-11-20.09:06:02::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-20.09:06:02::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-20.09:06:02::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-20.09:06:02::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-20.09:16:12::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-20.09:16:12::SCWBifWriter::hardware databse : zynq_proc_wrapper
+TRACE::2026-11-20.09:16:12::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-20.09:16:12::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-20.09:16:12::SCWBifWriter::proc type : 
+TRACE::2026-11-20.09:16:12::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-20.09:16:12::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-20.09:16:12::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-20.09:16:12::SCWBifWriter::Writing the Zynq Baremetal bif 
+TRACE::2026-11-20.09:25:26::SCWBifWriter::Found the complete platform /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm
+TRACE::2026-11-20.09:25:26::SCWBifWriter::hardware databse : zynq_proc_wrapper
+TRACE::2026-11-20.09:25:26::SCWBifWriter::bitstream found in the design
+TRACE::2026-11-20.09:25:26::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2026-11-20.09:25:26::SCWBifWriter::proc type : 
+TRACE::2026-11-20.09:25:26::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2026-11-20.09:25:26::SCWBifWriter::Device type is : zynq
+TRACE::2026-11-20.09:25:26::SCWBifWriter::Writing BIF to file : /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif
+TRACE::2026-11-20.09:25:26::SCWBifWriter::Writing the Zynq Baremetal bif 

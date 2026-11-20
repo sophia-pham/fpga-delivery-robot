@@ -1,0 +1,10 @@
+2026-11-20T09:25:25.12416500255-09:25:25 **** Incremental Build of configuration Debug for project motor_ctl_system ****
+000-make all 
+000-Generating bif file for the system project
+000-Executing command '::scw::generate_bif -xpfm /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm -domains standalone_domain -bifpath /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif' on XSCT
+000-sdcard_gen --xpfm /home/ubuntu-z5/proj/motor_uart_00/bare_zynq_proc/export/bare_zynq_proc/bare_zynq_proc.xpfm --sys_config bare_zynq_proc --bif /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/system.bif --bitstream /home/ubuntu-z5/proj/motor_uart_00/motor_ctl/_ide/bitstream/zynq_proc_wrapper.bit --elf /home/ubuntu-z5/proj/motor_uart_00/motor_ctl/Debug/motor_ctl.elf,ps7_cortexa9_0
+000-creating BOOT.BIN using /home/ubuntu-z5/proj/motor_uart_00/motor_ctl/_ide/bitstream/zynq_proc_wrapper.bit
+000-Running /tools/Xilinx/Vitis/2023.1/bin/bootgen  -image /home/ubuntu-z5/proj/motor_uart_00/motor_ctl_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+00255-
+09:25:30 Build Finished (took 5s.382ms)
+
